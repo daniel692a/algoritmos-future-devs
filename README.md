@@ -17,3 +17,19 @@ Un algoritmo es una lista paso a paso de las instrucciones para resolver cualqui
 * General: Es deseable que sea capaz de resolver una clase de problemas lo más amplia posible.
 * Eficiente: Cuantos menos recursos en tiempo, espacio (de memoria) y procesadores consume.
 
+## Complejidad en Algoritmos
+La **complejidad algorítmica** representa la cantidad de recursos que necesita un algoritmo para resolver un problema y por tanto permite determinar la eficencia de dicho algoritmo.
+
+> La medida de tiempo debe ser independiente:
+
+> * de la máquina
+
+> * de el lenguaje de programación
+
+> * del compilador
+
+> * de cualquier elemento de software o hardware
+
+## Notación Big O
+1. `O(1)`: Complejidad constante, es el ideal
+2. `O(n)`: Complejidad Linear, más información = más tiempo
