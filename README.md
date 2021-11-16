@@ -7,3 +7,13 @@ Se da un problema, el objetivo de un científico de la computación es desarroll
 
 ### ¿Qué es un algoritmo?
 Un algoritmo es una lista paso a paso de las instrucciones para resolver cualquier caso del problema que pudiera surgir.
+
+### Características de un Algoritmo
+* Precisión: Debe expresarse sin ambigüedad.
+* Determinismo: Debe responder del mismo modo ante las mismas condiciones.
+* Finito: Debe tener un final.
+
+### Cualidades de un Algoritmo
+* General: Es deseable que sea capaz de resolver una clase de problemas lo más amplia posible.
+* Eficiente: Cuantos menos recursos en tiempo, espacio (de memoria) y procesadores consume.
+
