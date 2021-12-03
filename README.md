@@ -32,4 +32,20 @@ La **complejidad algorítmica** representa la cantidad de recursos que necesita 
 
 ## Notación Big O
 1. `O(1)`: Complejidad constante, es el ideal
-2. `O(n)`: Complejidad Linear, más información = más tiempo
+2. `O(n)`: Complejidad linear, más información = más tiempo
+3. `O(log n)`: Complejidad logarítmica
+> Las siguientes no son recomendadas
+4. `O(n^2)`: Complejidad cuadrática
+5. `O(2^n)`: Complejidad exponencial = aumenta al doble por cada valor añadido
+6. `O(n!)`: Complejidad factorial
+
+[Big O Cheatsheet](https://bigocheatsheet.com/)
+> Existen otras notaciones
+
+
+# Diagramas de flujo y Pseudocódigo
+## ¿Qué son los diagramas de flujo?
+Es un diagrama que describe un proceso, sistema o algoritmo informático. Su función es comunicar procesos que suelen ser complejos en diagramas claros y fáciles de comprender.
+
+### Simbología
+![Simbología](https://static.platzi.com/media/user_upload/simbolos-diagrama-de-flujo-a942a526-219e-44cf-b5d3-d4d1069b3c30.jpg)
